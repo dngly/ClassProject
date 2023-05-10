@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>subculture</title>
+    <link rel="stylesheet" href="main.css" />
+  </head>
+  <body>
+    <div class="abtus1"><h1 class="hometxt">about us</h1></div>
+    <div class="topnav">
+      <div class="homebutton">
+        <a href="home.html">Home</a>
+      </div>
+      <div class="abtusbutton">
+        <a href="aboutus.html">About Us</a>
+      </div>
+      <div class="contactbutton">
+        <a href="contactus.html">Contact Us</a>
+      </div>
+      <div class="gallerybutton">
+        <a href="gallery.html">Gallery</a>
+      </div>
+    </div>
+    <div class="column">
+      <h2>About Us</h2>
+      <p class="abtus2">
+        Established and developed in 2020.<br />
+        Based on the East Coast, we are determined and commited to bridge the
+        gap between luxury and fast fashion.<br />
+        Bringing you the highest quality clothing piece at the most affordable
+        price with modern contemporary aesthetic fusing classic and timeless
+        designs.
+      </p>
+    </div>
+
+    <footer>
+      <p>&copy; Copyright 2021 Subcult Clothing.</p>
+    </footer>
+    <script src="main.js"></script>
+  </body>
+</html>
